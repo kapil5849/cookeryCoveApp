@@ -35,3 +35,7 @@ User-friendly interface with intuitive navigation and design.
 
 ## Contact
 - If you have any questions or comments about Cookery Cove, please contact me at kvaishnav408@gmail.com
+
+[CookeryCoveApp](https://cookerycoverecipefinderapp.netlify.app/)
+
+[GitHub](https://github.com/kapil5849/cookeryCoveApp)
