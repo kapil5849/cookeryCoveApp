@@ -6,7 +6,7 @@ Cookery Cove is a React application designed to help users easily find and disco
 - The project was built using React JS and Edamam Recipe Search API.
 
 ## Features
-- Some of the key features of Cookery Cove include:
+### Some of the key features of Cookery Cove include:
 
 - Robust recipe search functionality, allowing users to search for recipes by keywords, ingredients, cuisine, and more.
 User-friendly interface with intuitive navigation and design.
